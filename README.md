@@ -1,4 +1,4 @@
-# Chocolate-Sales-Data-Analysis
+# Chocolate Sales Data Analysis
 ## Project Overview
 Sales data analysis using Excel to track revenue trends, product performance, and monthly sales insights through dashboards and pivot tables.
 
